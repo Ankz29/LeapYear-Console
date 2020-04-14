@@ -1,0 +1,7 @@
+E:\C# Programs\LeapYearConsole\LeapYearConsole\bin\Debug\LeapYearConsole.exe.config
+E:\C# Programs\LeapYearConsole\LeapYearConsole\bin\Debug\LeapYearConsole.exe
+E:\C# Programs\LeapYearConsole\LeapYearConsole\bin\Debug\LeapYearConsole.pdb
+E:\C# Programs\LeapYearConsole\LeapYearConsole\obj\Debug\LeapYearConsole.csprojAssemblyReference.cache
+E:\C# Programs\LeapYearConsole\LeapYearConsole\obj\Debug\LeapYearConsole.csproj.CoreCompileInputs.cache
+E:\C# Programs\LeapYearConsole\LeapYearConsole\obj\Debug\LeapYearConsole.exe
+E:\C# Programs\LeapYearConsole\LeapYearConsole\obj\Debug\LeapYearConsole.pdb
